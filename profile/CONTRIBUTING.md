@@ -1,12 +1,12 @@
 # Welcome to Eimi Tech Innovations contributing guide
 
-Read our [Code of Conduct](./profile/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
 In this guide, you will get an overview of the contribution workflow from opening an issue, creating a PR, reviewing, and merging the PR.
 
 ## Getting started
 
-To get an overview of the project, read the [README](./profile/README.md). Here are the steps to contribute,
+To get an overview of the project, read the [README](./README.md). Here are the steps to contribute,
 
 ### 1. Create a new issue
 
